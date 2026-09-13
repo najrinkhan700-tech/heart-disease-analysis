@@ -30,8 +30,8 @@ The Power BI dashboard includes:
 - Average cholesterol and high blood pressure trends by age group
 - Slicers for Gender, Disease Status, Age Group, and Chest Pain Type for dynamic filtering
 
-*(Dashboard screenshot:
-![Customer Behavior Dashboard](customerBehaviorDashboard.png)
+### ❤️ Heart Disease Dashboard
+![Heart Disease Dashboard](heartDiseaseDashboard.png)
 
 ## Results
 - Out of 296 patients analyzed, 160 (54.05%) have heart disease.
