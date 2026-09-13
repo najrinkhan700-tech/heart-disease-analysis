@@ -10,7 +10,7 @@ This project analyzes patient health records to identify the demographic and cli
 - **Attributes:** 14, including age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, maximum heart rate, exercise-induced angina, number of major vessels, and disease status (target)
 
 ## Tools
-- **Python** (Pandas, Matplotlib, Seaborn) — data cleaning and exploratory data analysis
+- **Python** (Pandas) — data cleaning and exploratory data analysis
 - **SQL Server** — business-question-driven querying on the cleaned dataset
 - **Power BI** — interactive dashboard for demographic and clinical pattern exploration
 - **Gamma** — presentation deck summarizing the project for a non-technical audience
@@ -30,7 +30,8 @@ The Power BI dashboard includes:
 - Average cholesterol and high blood pressure trends by age group
 - Slicers for Gender, Disease Status, Age Group, and Chest Pain Type for dynamic filtering
 
-*(Dashboard screenshot: `reports/dashboard.png`)*
+*(Dashboard screenshot:
+![Customer Behavior Dashboard](customerBehaviorDashboard.png)
 
 ## Results
 - Out of 296 patients analyzed, 160 (54.05%) have heart disease.
